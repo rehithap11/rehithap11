@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rehithap11
-- 👀 I’m interested in Web Desiging 
+- 👀 I’m interested in fullstack
 - 🌱 I’m currently learning Java FullStack Develeopment
 - 💞️ I’m looking to collaborate on FullStack Developer and Frontend/UI
 - 📫 Reach me at rehithap11@gmail.com 
